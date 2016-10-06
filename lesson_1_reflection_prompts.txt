@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It allowed me to compare certain sections that I was looking at much more precisely and also told me what was added or taken away.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By looking at the previous versions you can find errors that may have been written or to go back to a previous version all together if the most recent hasn’t been saved.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    It does not take unnecessary saves that may end up taking a lot of storage on the computer depending on how large the file is and it also will not have the chance of saving in the middle of three crucial lines of code that if lost will stop the entire program from running. Although in a process like Git you are held responsible and can result human error by one forgetting to save and other things. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I believe that by saving some files together it makes for a much easier time coding and ability to compare when making a website is much easier. The reason some places might treat files separately is because it is easier to understand and effect one document than to compare multiple.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log allows us to see past Commits which and git diff allows me the luxury of having the program compare what is the same and what is different between the codes then locate that area for me.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It allows me the luxury of going back to the working program if I mess the new program up immensely and have a starting point that is saved. This allows me to take far more risks (I just need to make sure I have saved ahead of time)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to play a game of asteroids. In actuality though if it is not too complicated I would like to understand how the colors in my terminal work and how they are made.
